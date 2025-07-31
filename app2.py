@@ -31,7 +31,7 @@ logger = logging.getLogger(__name__)
 
 # Configuration
 class Config:
-    GEMINI_API_KEY = os.getenv["GEMINI_API_KEY"]  
+    GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
     EMBEDDING_MODEL = "all-MiniLM-L6-v2"  
     CHROMA_PERSIST_DIR = "./chroma_db"
     COLLECTION_NAME = "math_knowledge_base"
