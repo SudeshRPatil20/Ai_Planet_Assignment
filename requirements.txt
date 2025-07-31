@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+google-generativeai
+chromadb
+sentence-transformers
+transformers
+torch
+duckduckgo-search
+beautifulsoup4
+requests
+numpy
+pydantic
+PyMuPDF
+pdfplumber
