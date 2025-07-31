@@ -16,7 +16,7 @@ An open-source, agentic RAG-based assistant that replicates a math professor —
 
 ## 📹 Demo Video
 
-🎥 [Watch on YouTube]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=kjMpTZPMxpk))
+🎥 [Watch on YouTube]((https://www.youtube.com/watch?v=kjMpTZPMxpk))
 
 > Covers:
 > - Full architecture explanation
