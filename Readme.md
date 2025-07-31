@@ -6,8 +6,8 @@ An open-source, agentic RAG-based assistant that replicates a math professor —
 
 ## 🎯 Features
 
-- 🔍 Knowledge Base + Web Search Routing
-- 🧠 LLM Reasoning (Gemini 1.5 / DialoGPT)
+- 🔍 Knowledge Base + Web Search Routing + Model Context Protocol
+- 🧠 LLM Reasoning
 - 🛡️ Input & Output Guardrails
 - 🔁 Human-in-the-Loop Feedback (DSPy)
 - 🧪 [Bonus] JEE Bench Evaluation
@@ -16,7 +16,7 @@ An open-source, agentic RAG-based assistant that replicates a math professor —
 
 ## 📹 Demo Video
 
-🎥 [Watch on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+🎥 [Watch on YouTube]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=kjMpTZPMxpk))
 
 > Covers:
 > - Full architecture explanation
@@ -164,7 +164,7 @@ css
 Copy
 Edit
 .
-├── math_agent.py
+├── app2.py
 ├── pd/
 │   └── pdf_reader.py
 ├── sample_data/
@@ -187,5 +187,5 @@ DuckDuckGo Search API
 
 🧑‍💻 Author
 Built by Sudesh
-📬 your-email@example.com
+📬 sudeshrpatil20121@gmail.com
 🌐 GitHub | LinkedIn | Portfolio
