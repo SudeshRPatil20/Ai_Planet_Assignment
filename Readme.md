@@ -25,6 +25,44 @@ An open-source, agentic RAG-based assistant that replicates a math professor —
 
 ---
 
+
+# 🤖 Math Routing Agent: Human-in-the-Loop Educational AI
+
+<p align="center">
+  <img src="Screenshot 2025-08-10 220717.png" width="25%">
+  <img src="Screenshot 2025-08-10 220537.png" width="25%">
+</p>
+<p align="center">
+  <img src="Screenshot 2025-08-10 220555.png" width="25%">
+  <img src="Screenshot 2025-07-31 161837.png" width="25%">
+</p>
+<p align="center">
+  <img src="Screenshot_2025-08-10_220717.png" width="25%">
+</p>
+
+An open-source, agentic RAG-based assistant that replicates a math professor — solving questions step-by-step using LLMs, vector search, and web search. Feedback from users helps improve the agent over time.
+
+---
+
+## 🚀 Key Technologies
+
+| Category               | Technologies Used |
+|------------------------|-------------------|
+| **Backend** 🖥️        | FastAPI, Python |
+| **Frontend** 🎨       | React (TypeScript) |
+| **AI & Agents** 🤖    | LangChain, DSPy, Agentic RAG |
+| **Vector Database** 📚| FAISS |
+| **LLMs** 💡           | Google Gemini (via DSPy), Groq (via LangChain ChatGroq) |
+| **Search & Knowledge** 🌐 | Web Search with MCP |
+| **Guardrails** 🛡️    | Input/Output Validation |
+| **Human-in-the-Loop** 👥 | Feedback-based Fine-tuning (DSPy BootstrapFewShot) |
+
+---
+
+✨ This project combines **real-time problem-solving**, **contextual reasoning**, and **continuous learning** to create an intelligent math tutor that improves with every interaction.
+
+
+
 ## 🧠 High-Level Design (HLD)
 
 graph TD
