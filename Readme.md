@@ -29,12 +29,12 @@ An open-source, agentic RAG-based assistant that replicates a math professor —
 # 🤖 Math Routing Agent: Human-in-the-Loop Educational AI
 
 <p align="center">
-  <img src="Screenshot 2025-08-10 220717.png" width="25%">
-  <img src="Screenshot 2025-08-10 220537.png" width="25%">
+  <img src="images/Screenshot 2025-08-10 220717.png" width="30%">
+  <img src="images/Screenshot 2025-08-10 220537.png" width="30%">
 </p>
 <p align="center">
-  <img src="Screenshot 2025-08-10 220555.png" width="25%">
-  <img src="Screenshot 2025-07-31 161837.png" width="25%">
+  <img src="images/Screenshot 2025-08-10 220555.png" width="30%">
+  <img src="images/Screenshot 2025-07-31 161837.png" width="30%">
 </p>
 <p align="center">
   <img src="Screenshot_2025-08-10_220717.png" width="25%">
